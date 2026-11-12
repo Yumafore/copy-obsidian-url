@@ -1,0 +1,9 @@
+{
+  "id": "copy-obsidian-url",
+  "name": "Copy as Obsidian Link",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "将 Markdown 文件复制为 [标题](obsidian://...) 链接格式。",
+  "author": "提狐灌饼",
+  "isDesktopOnly": false
+}
